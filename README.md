@@ -21,3 +21,5 @@ LPC812M101JDH20FP
 チップ抵抗 2kΩ x2  
 チップコンデンサ 0.1uF x1  
 ハーフピッチ2列ピンヘッダ 5x2ピン  
+
+![Pinout](https://github.com/od1969/LPC812_300mil_board/blob/master/LPC812_300mil_board_pinout.PNG)  
